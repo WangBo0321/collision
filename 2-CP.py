@@ -8,8 +8,6 @@ This script:
 4) computes the joint conformal quantile;
 5) exports score/quantile data needed by the final TEST script.
 
-It DOES NOT evaluate coverage or MPIW, because those must be evaluated
-on the independent TEST set, not on the calibration set.
 """
 
 import os
