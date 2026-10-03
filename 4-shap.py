@@ -43,10 +43,10 @@ CONFIG = {
 
     # 与原训练代码保持一致
     "train_start": 0,
-    "train_end": 1041,
+    "train_end": 1000,
 
-    "test_start": 1041,
-    "test_end": 1141,
+    "test_start": 1000,
+    "test_end": 1100,
 
     # --------------------------------------------------------
     # 推荐：这里填入 55 个 calibrated-stable 测试样本的原始 sample_index
