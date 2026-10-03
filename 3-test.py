@@ -17,11 +17,6 @@ Outputs:
 - confusion counts against FE truth, including false-safe FN
 - publication-ready figures and CSV data
 
-IMPORTANT:
-- This script does NOT train/tune the DE.
-- This script does NOT recalibrate q_lift.
-- This script does NOT recompute q_ind or q_joint.
-- All q values are read from the independent stable Cal-L2 set.
 """
 
 import os
