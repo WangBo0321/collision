@@ -1,0 +1,2 @@
+﻿alpha,coverage_target,n_cal,order_statistic_k,q_lift,h_lim,n_total_test,n_calibrated_stable,n_to_be_verified,n_calibrated_unstable,false_accept_count,false_accept_rate,false_accept_upper_95,conservative_error_count,conservative_error_rate,uncertain_fail_count,uncertain_fail_rate
+0.05,0.95,100,96,2.2724207300000003,20.0,100,55,11,34,0,0.0,0.0530110549512538,0,0.0,6,0.5454545454545454
